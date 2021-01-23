@@ -29,7 +29,7 @@ The following additional features are implemented:
 Here's a walkthrough of implemented user stories:
 
 
-![](https://i.imgur.com/kYKRbbg.gif)
+![Image](https://i.imgur.com/1CL13S0.gif)
 
 
 GIF created with QuickTime - HackMD
