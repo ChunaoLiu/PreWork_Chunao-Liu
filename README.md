@@ -28,7 +28,7 @@ The following **additional** features are implemented:
 
 Here's a walkthrough of implemented user stories:
 
-https://imgur.com/a/GLoCyG5
+<img src='https://imgur.com/a/GLoCyG5' title='Tips Calculator' width='' alt='Tips Calculator' />
 
 GIF created with Quicktime
 
